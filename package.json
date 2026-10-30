@@ -1,0 +1,14 @@
+
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A responsive calculator built with HTML, CSS, JavaScript and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
